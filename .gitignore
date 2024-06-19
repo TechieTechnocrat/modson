@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# npm debugging log
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# OS generated files
+.DS_Store
+Thumbs.db
